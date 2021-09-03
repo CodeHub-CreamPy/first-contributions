@@ -27,8 +27,8 @@
 - [Tsahi Edri] (https://github.com/tsahiedri)
 - [Kennard Lim]
 - [Ciara Giron] (https://github.com/cjgiron)
-- [Hara] (https://github.com/hhara21)
-- [Abhishek Ranjan] (https://github.com/Aranjan21)
+- [Hara] (https://github.com/hhara21)dawd
+- [Abhishek Ranjan] (https://giawdawdthub.dawdcom/Aranjan21)
 - [Jiasheng Yang](https://github.com/Jiasheng-Yang)
 - [Pengfei Liu]
   [KamiZer0](https://github.com/KamiZer0)
